@@ -1,0 +1,27 @@
+<div id="app">
+	<ul>
+		<li v-for="product in products">
+			{{ product.quantity }} {{ product.name }}
+			<span v-if="product.quantity === 0">
+				- OUT OF STOCK
+			</span>
+		</li>
+	</ul>
+</div>
+
+<script src="https://unpkg.com/vue"></script>
+<script>
+	const app = new Vue({
+		el: '#app',
+		data: {
+			products: []
+		},
+		created () {
+			fetch('https://api.myjson.com/bins/oalbf')
+				.then(response => response.json())
+				.then(json => {
+					this.products = json.products
+				})
+		}
+	})
+</script>    

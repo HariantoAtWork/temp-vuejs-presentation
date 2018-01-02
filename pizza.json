@@ -1,0 +1,79 @@
+{
+	"products": [{
+		"id": 1,
+		"quantity": 0,
+		"name": "Pizza Americana"
+	},{
+		"id": 2,
+		"quantity": 0,
+		"name": "Pizza Caprese"
+	},{
+		"id": 3,
+		"quantity": 0,
+		"name": "Pizza Creamy Bacon"
+	},{
+		"id": 4,
+		"quantity": 0,
+		"name": "Pizza Chicken Supreme"
+	},{
+		"id": 5,
+		"quantity": 0,
+		"name": "Pizza Deluxe"
+	},{
+		"id": 6,
+		"quantity": 0,
+		"name": "Pizza Hawaii"
+	},{
+		"id": 7,
+		"quantity": 0,
+		"name": "Pizza Hot & Spicy"
+	},{
+		"id": 8,
+		"quantity": 0,
+		"name": "Pizza Salame Speciale"
+	},{
+		"id": 9,
+		"quantity": 0,
+		"name": "Pizza Tonno"
+	},{
+		"id": 10,
+		"quantity": 0,
+		"name": "Pizza Veggi"
+	},{
+		"id": 11,
+		"quantity": 0,
+		"name": "Pizza Four Cheese"
+	},{
+		"id": 12,
+		"quantity": 0,
+		"name": "Pizza BBQ Mixed Grill"
+	},{
+		"id": 13,
+		"quantity": 0,
+		"name": "Pizza Extravaganzza"
+	},{
+		"id": 14,
+		"quantity": 0,
+		"name": "Pizza Chicken Kebab"
+	},{
+		"id": 15,
+		"quantity": 0,
+		"name": "Pizza Shoarma"
+	},{
+		"id": 16,
+		"quantity": 0,
+		"name": "Pizza Supreme"
+	},{
+		"id": 17,
+		"quantity": 0,
+		"name": "Pizza Funghi"
+	},{
+		"id": 18,
+		"quantity": 0,
+		"name": "Pizza Margaritha"
+	},{
+		"id": 19,
+		"quantity": 0,
+		"name": "Pizza Perfect Pepperoni"
+	}]
+}
